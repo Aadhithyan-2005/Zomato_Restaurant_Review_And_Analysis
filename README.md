@@ -79,7 +79,7 @@ The project follows a structured data science pipeline:
 ---
 
 ## Conclusion
-This project demonstrates a complete data science workflow—from raw data to model deployment readiness.  
+This project demonstrates a complete data science workflow from raw data to model deployment readiness.  
 It highlights the importance of data preprocessing, exploratory analysis, and model evaluation in building reliable machine learning systems.
 
 ---
